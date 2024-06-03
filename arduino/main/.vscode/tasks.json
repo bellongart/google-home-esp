@@ -1,0 +1,17 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+      {
+          "label": "Arduino: Verify",
+          "type": "shell",
+          "command": "arduino-cli compile --fqbn esp8266:esp8266:generic --verbose main.ino --output-dir out",
+          "problemMatcher": [
+              "$arduino"
+          ],
+          "group": {
+              "kind": "build",
+              "isDefault": true
+          }
+      }
+  ]
+}
