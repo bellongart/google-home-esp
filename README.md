@@ -7,6 +7,8 @@
 - Hacer el diagrama electrónico
 - Paso a paso de cómo configurar SinricPro y añadirlo a Google Home Assint
 - Paso para la configuración del entorno de desarrollo
+- lista de materiales
+- diagrama esquemático
 
 ## Comando de compilación
 
